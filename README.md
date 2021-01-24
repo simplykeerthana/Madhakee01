@@ -33,5 +33,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 </a>
 
 
-
-[![Top Langs](https://github-readme-stats.madhakee01.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Madhakee01/github-readme-stats)
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/madhakee01/madhakee01/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/madhakee01/madhakee01/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/madhakee01/madhakee01/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
