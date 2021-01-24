@@ -33,6 +33,6 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 
 <a href="https://github.com/Madhakee01/github-readme-stats.git">
-  <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee001&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
