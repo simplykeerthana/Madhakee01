@@ -36,4 +36,4 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 [![Top Langs](https://github-readme-stats.madhakee01.vercel.app/api/top-langs/?username=madhakee01&layout=compact&theme=merko)](https://github.com/Madhakee01/github-readme-stats.git)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
