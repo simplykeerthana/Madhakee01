@@ -25,7 +25,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 -- In progress -- 
 
-
+![](https://komarev.com/ghpvc/?username=madhakee01&color=brightgreen)
 
 
 <a href="https://github.com/Madhakee01/github-readme-stats.git">
