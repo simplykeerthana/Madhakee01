@@ -39,14 +39,14 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 <a href="https://github.com/Madhakee01/github-readme-stats.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github.com/Madhakee01/Madhakee01.git//api?username=madhakee01&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/Madhakee01/github-readme-stats.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github.com/Madhakee01/Madhakee01.git//api?username=madhakee01&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Madhakee01/github-readme-stats.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github.com/Madhakee01/Madhakee01.git//api?username=madhakee01&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
