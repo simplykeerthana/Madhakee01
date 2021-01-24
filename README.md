@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Keerthana
 
-![118309695_2751887831762032_1482430832931920053_o](https://user-images.githubusercontent.com/34112414/105643953-02fe7000-5e61-11eb-9b13-a02821b7ac9d.jpg)
+![image](https://user-images.githubusercontent.com/34112414/105643953-02fe7000-5e61-11eb-9b13-a02821b7ac9d.jpg)
 
 
 <br />
