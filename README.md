@@ -37,5 +37,6 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 
 
+Computer Science Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
