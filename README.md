@@ -35,7 +35,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Keerthana's github stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhakee01&layout=compact)](https://github.com/madhakee01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhakee01&layout=compact)]("https://github.com/Madhakee01/github-readme-stats)
 
 
 
