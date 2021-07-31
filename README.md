@@ -35,7 +35,6 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <img align="center" src="https://github-readme-stats.madhakee01.vercel.app//api?username=madhakee01&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Keerthana's github stats" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhakee01&hide=c%23,CSS&theme=dark&langs_count=8&layout=compact)
 
 
 Computer Science Jokes <br>
