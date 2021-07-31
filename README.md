@@ -37,6 +37,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhakee01&hide=c%23,CSS&theme=dark&langs_count=8&layout=compact)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madhakee01)](https://github.com/Madhakee01/github-readme-stats.git)
 
 
 Computer Science Jokes <br>
