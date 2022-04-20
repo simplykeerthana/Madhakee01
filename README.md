@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Keerthana Madhavan, a passionate sofware and cybersecurity engineer
 
 - 🔭 I’m currently working on a Software Application...
 - 🌱 I’m currently learning Machine Learning Models ...
